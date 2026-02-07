@@ -1,2 +1,2 @@
 # Infinity-Client
-Hack client for Eaglercraft 1.12
+A nice lil client for Eaglercraft 1.12.2
